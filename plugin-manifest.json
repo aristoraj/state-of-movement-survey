@@ -1,0 +1,26 @@
+{
+  "service": "CREATOR",
+  "cspDomains": {
+    "connect-src": [
+      "https://creatorapp.zohopublic.com",
+      "https://creator.zoho.com",
+      "https://creator.zoho.eu",
+      "https://creator.zohocloud.ca",
+      "https://creator.zoho.in",
+      "https://creator.zoho.com.au"
+    ],
+    "script-src": [
+      "https://js.zohostatic.com"
+    ],
+    "style-src": [
+      "https://fonts.googleapis.com"
+    ],
+    "font-src": [
+      "https://fonts.gstatic.com"
+    ],
+    "img-src": [
+      "data:"
+    ]
+  },
+  "config": []
+}
